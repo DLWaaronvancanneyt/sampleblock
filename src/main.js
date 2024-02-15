@@ -42,7 +42,7 @@ function paintMap() {
 
 	sdk.setContent(
 		'<h1>'+title+'</h1>' +
-		'<p>h1 will be a dynamic component, when you change the title on the lift it will apear on the right</p>'+
+		'<p>h1 will be a dynamic component, when you change the title on the left it will appear on the right</p>'+
 		'<p>'+width+'</p>' +
 		'<p>'+height+'</p>' +
 		'<p>'+zoom+'</p>'
